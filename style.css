@@ -1,0 +1,61 @@
+h1{
+    color: #FFAA00;
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    background-color: #00FFFF;
+}
+
+.Header{
+    background-color: #00A000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.pr_ab{
+    text-align: end;
+    color: #ff8c00;
+}
+
+.Game{
+    display: flex;
+    justify-content: space-between ;
+}
+
+.Superman{
+    background-color: #FF0000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Balloon_Buster{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #9acd32;
+}
+
+.Monkey{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #FFFF00;
+}
+
+.Theif{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #808080;
+}
+
+.Media{
+    width: 150;
+    height: 150;
+}
